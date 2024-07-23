@@ -1,0 +1,169 @@
+.lato-regular { /* título*/
+
+    font-family: "Lato", sans-serif;
+    font-weight: 450;
+    color: #F70082;
+    font-style: normal;
+    text-align: center;
+
+  }
+
+
+
+  .lato-light {    /*subtitulos*/
+
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    text-align: center;
+    font-size: 18px;
+    
+  }
+
+  .concert-one-regular {
+    font-family: "Concert One", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+
+
+
+  body {    /*fondo*/
+
+    margin: 0 auto;
+    max-width: 1200px;
+    background-image: url(imágenes/scenemo.jpg);
+    background-size: 100%;
+
+  }
+  
+
+
+  body {    /*borde superior*/
+    
+    margin-top: 100px;
+    max-width: 1200px;
+    
+  }
+  
+
+
+  body {   /*borde inferior*/
+
+    margin-bottom: 200px;
+    max-width: 1200px;
+  }
+
+
+
+  #EmiliaPaz{   /* Foto de Perfil */
+
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    display: flex;
+  }
+
+
+
+  .centrado{   /*ajustes foto de perfil*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+
+  .lato-regular{ /*Títulos*/
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+
+  .lato-light {  /*Subtítulos*/
+    margin-top: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .lato-regulari{   /* Nombre */
+
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+  }
+
+
+
+  .section { /* Segmentos de texto */
+
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    padding: 30px;
+    margin-bottom: 60px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+   
+  
+  }
+
+
+
+  .section-container { /* relleno Segmentos de texto */
+    
+    width: 100%;
+  }
+  
+
+  .coso { 
+    font-family: "lato";
+    font-weight: 400;
+    font-size: 20px;
+    color: #f5f5f5;
+    font-style: normal;
+    text-align: center;
+  }
+
+  .coso {
+    flex: auto;
+    background-color: #F70082;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+   
+    
+  }
+
+.fotitos img {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  border-radius: 5%;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.nombre { 
+  font-family: "Concert One";
+  font-weight: 400;
+  font-size: 40px;
+  color: #F70082;
+  font-style: normal;
+  text-align: center;
+
+}
+
